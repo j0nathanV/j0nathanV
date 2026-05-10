@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hola, soy Jonathan Pilamunga
 
-<!--
-**j0nathanV/j0nathanV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend & Fullstack Developer | Ecuador 🇪🇨
 
-Here are some ideas to get you started:
+Ingeniero en TI con experiencia en desarrollo empresarial, 
+redes ISP y automatización de procesos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Stack Tecnológico
+
+**Backend**
+![.NET](badge) ![Laravel](badge) ![PHP](badge) ![Node.js](badge)
+
+**Frontend**
+![React](badge) ![Angular](badge) ![Electron](badge)
+
+**Bases de Datos**
+![PostgreSQL](badge) ![MySQL](badge) ![MongoDB](badge)
+
+**DevOps & Redes**
+![Azure](badge) ![Git](badge) ![MikroTik](badge) ![Linux](badge)
+
+---
+
+## 🚀 Proyectos Actuales
+
+| Proyecto | Stack | Estado |
+|----------|-------|--------|
+| 🌐 Sistema Admin ISP | Laravel · PHP · MySQL | En desarrollo |
+| 🧾 Sistema Facturación Desktop | React · Electron · PostgreSQL | En desarrollo |
+
+---
+
+## 📊 GitHub Stats
+
+<!-- Pega aquí los widgets de github-readme-stats -->
+
+---
+
+## 📫 Contacto
+📧 jonathanpilamunga20@gmail.com  
+💼 [LinkedIn](https://linkedin.com/in/jonathanpilamunga)
