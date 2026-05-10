@@ -127,10 +127,6 @@ habilidades de desarrollo con conocimiento profundo de infraestructura de redes.
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=j0nathanV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=0E7490&icon_color=0E7490&text_color=c9d1d9"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0nathanV&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0E7490&text_color=c9d1d9"/>
-
 </div>
 
 <div align="center">
@@ -141,15 +137,7 @@ habilidades de desarrollo con conocimiento profundo de infraestructura de redes.
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=j0nathanV&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
-
-</div>
-
----
 
 ## 📜 Certificaciones
 
