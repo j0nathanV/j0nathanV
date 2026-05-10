@@ -1,6 +1,5 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E7490&height=200&section=header&text=Jonathan%20Pilamunga&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20Fullstack%20Developer%20%7C%20Ecuador%20%F0%9F%87%AA%F0%9F%87%A8&descAlignY=60&descSize=18" />
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-jonathan--pilamunga-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-pilamunga-3295512b7/)
   [![Portfolio](https://img.shields.io/badge/Portfolio-j0nathanv.github.io-0E7490?style=for-the-badge&logo=github&logoColor=white)](https://j0nathanv.github.io/Portafolio_Jonathan_Pilamunga/)
