@@ -16,7 +16,6 @@
 ```txt
 > Ingeniero en TI · Backend & Fullstack Developer · DevOps · Network ISP Engineer
 > Universidad Nacional de Chimborazo · 2019–2024
-> Disponible para freelance y trabajo remoto
 ```
 
 Construyo soluciones de software empresarial end-to-end. Tengo experiencia real en el **sector financiero** (Produbanco),
